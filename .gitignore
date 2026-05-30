@@ -1,0 +1,18 @@
+# Backups y dumps generados por los scripts (NUNCA commit)
+backups/
+logs/
+*.csv
+auditpol_*.txt
+configuracion_*.txt
+
+# Editores / SO
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# PowerShell
+*.ps1xml
+PSScriptAnalyzerResults.txt
